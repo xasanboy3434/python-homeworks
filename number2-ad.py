@@ -1,0 +1,7 @@
+a = int(input('a='))
+b = int(input('b='))
+c = int(input('c='))
+d = max(a, b, c)
+print('eng kattasi:', d)
+e = min(a, b, c)
+print('eng kichigi:', e)
